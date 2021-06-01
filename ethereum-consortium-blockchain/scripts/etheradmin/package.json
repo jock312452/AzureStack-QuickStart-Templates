@@ -14,7 +14,7 @@
     "express-handlebars": "~3.0.0",
     "express-session": "^1.15.2",
     "moment": "~2.19.3",
-    "promise": "~7.1.1",
+    "promise": "~7.3.1",
     "web3": "~0.19.1"
   }
 }
